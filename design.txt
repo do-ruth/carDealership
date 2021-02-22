@@ -1,0 +1,15 @@
+Simple console app for a car dealership
+
+Aspects of app:
+  Search for cars
+  provide prices
+
+
+User interaction:
+  input string for cars
+
+
+Test cases:
+  Ask user if they want a new or used car
+  Ask user if for what make and model
+  Inform user if it is available
